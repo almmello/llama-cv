@@ -1,0 +1,84 @@
+1. The first 5G industrial private network in Latin America in the port sector  
+**Company:** TIM S/A  
+**Period:** Oct 2020 - Present  
+**Description:** BTP - Brasil Terminal Portuário hired TIM Brasil and Nokia to install the port sector's first 5G industrial private network in Latin America. Handling 2 million TEUs per year (equivalent to a 6-meter container), BTP - Brasil Terminal Portuário is one of the largest container terminals in the Port of Santos. The company is a joint venture between APM Terminals and Terminal Investment Limited (TIL), leaders in the world container market, belonging to the two largest global shipping groups — Maersk Group and MSC Mediterranean Shipping Company, respectively.  
+I worked as the product manager for this project, which involved the installation of a 5G network to support the terminal's operations; This project was complex since it involved deploying new technology in a highly regulated environment. As a result, we had to coordinate the efforts of multiple internal and external teams to ensure the project's success.  
+Using a separate, dedicated 3.5 GHz TIM Brasil's frequency with a unique network Core, the 5G low latency, high speed, and capacity allow applications, such as smart cameras, installed in the terminal to monitor real-time container's movements.  
+Additionally, TIM Brasil will improve the 4G network in the immediate vicinity to provide better coverage to all workers at the terminal.  
+The technology will bring operational improvements like time reductions in loading ships and cargo, energy efficiency, and safety, increasing BTP's productivity and logistical effectiveness.  
+1. React Calculator  
+**Company:** DIO  
+**Period:** Oct 2022 - Nov 2022  
+**Description:** This project was bootstrapped with Create React App (https://github.com/facebook/create-react-app) and used the Styled Components library.  
+I started with a working calculator with limited operations; only addition and subtraction were present in the startup code.  
+**My contributions:** I did a new design with my color pallet and styles.  
+The Calculator can hold the number when we press the operation symbol.  
+The equal sign creates a continuous operation loop.  
+After an operation, if we type another operation sign, the Calculator performs another calculation indefinitely.  
+I introduced new operations and used BigNumbers to fix the precision issue on decimal calculations.  
+URL location for the hosted Calculator  
+https://gmoo.com.br  
+1. Casting Agency  
+**Company:** Udacity  
+**Period:** Sep 2022 - Sep 2022  
+**Description:** A new digitally enabled Casting Agency for Producers and Directors to manage Actors and Movies.  
+I used SQLAlchemy to define models and data types with helper methods like creating, inserting, updating, and deleting to serialize the data model and simplify API behavior.  
+I followed RESTful principles of API development, including appropriate naming of endpoints, with HTTP methods GET, POST, PATCH, and DELETE. The routes perform CRUD operations.  
+I enable Role Based Authentication and role-based access control (RBAC) in a Flask application using Auth0.  
+I provided all instructions to host the project on Heroku.  
+1. Coffee Shop Full Stack  
+**Company:** Udacity  
+**Period:** Jul 2022 - Aug 2022  
+**Description:** A new digitally enabled cafe allows students to order drinks, socialize, and study hard.  
+I have set up Auth0 to implement authentication and authorization in Flask with role-based control design patterns securing a REST API.  
+I used Postman to test the endpoints with the JWT tokens from Auth0, applying software system risk and compliance principles.  
+1. Trivia app  
+**Company:** Udacity  
+**Period:** Jul 2022 - Aug 2022  
+**Description:** The Trivia app is a web app that allows you to play a trivia game and manage questions among some categories.  
+I created the routes to add, display and search questions. Questions show their category and difficulty rating by default and can show/hide the answer.  
+To test the app, I created Unit Testing for all routes.  
+1. Fyyur app  
+**Company:** Udacity  
+**Period:** Jun 2022 - Jun 2022  
+**Description:** Fyyur is a musical venue and artist booking site that facilitates the discovery and booking of shows between local performing artists and venues. This site lets you list new artists and venues, discover them, and list shows with artists as venue owners.  
+I connected the app to the Flask backend and the PostgreSQL database. Then, I implemented the controllers for listing venues, artists, and shows and the form submissions for creating new Venues, Artists, and Shows.  
+To set up normalized models for the objects we support in our web app, I used SQLAlchemy and all the learned best practices in database schema design.  
+Finally, I implemented the missing model properties and relationships using database migrations via Flask-Migrate.  
+1. Goalmoon.com  
+**Company:** Goalmoon  
+**Period:** Oct 2016 - Present  
+**Description:** I single-handedly developed this website which has been running since 2016. I was responsible for all website development, design, and layout aspects. In addition, I received branding materials from a startup program I subscribed to and implemented them to create a cohesive and professional online presence. As a result, the website has been providing value to its users since its launch.  
+1. Zakarternos  
+**Company:** Goalmoon  
+**Period:** Oct 2017 - Present  
+**Description:** I was in charge of the backend setup for the Zakar Ternos website. I handled everything from DNS configuration and email setup to security and plugin implementation. My technical expertise allowed for a seamless launch, and the customer could focus on creating the website's content and design. The website has been up and running since 2017.  
+1. Salimpneus  
+**Company:** Goalmoon  
+**Period:** Oct 2017 - Present  
+**Description:** I was responsible for the backend development, handling all setup tasks, including DNS configuration, email setup, security measures, and plugin implementation. My skills and experience enabled a smooth launch, and the customer team was able to focus on creating a visually stunning and user-friendly website. I am proud to have been part of their site's successful launch and ongoing maintenance.  
+1. Felipe Tavares  
+**Company:** Goalmoon  
+**Period:** Oct 2017 - Present  
+**Description:** I provided the backend development for the website, including configuring DNS, setting up email, implementing security measures, creating backups, installing various plugins, and installing the theme. The website has been live and running smoothly since 2017. The project required attention to detail and the ability to work closely with the client to deliver a website that met their expectations.  
+1. ItSolut  
+**Company:** Goalmoon  
+**Period:** Oct 2018 - Present  
+**Description:** I completed the backend setup for a website on ItSolut, including DNS configuration, Email setup, security measures, regular backups, installation of various plugins, and theme implementation. The website has been running smoothly since 2018, with the customer subsequently handling content and design development.  
+1. Corpus Skill  
+**Company:** Goalmoon  
+**Period:** Oct 2019 - Present  
+**Description:** I used the AVADA theme to create the Corpus Skill website. In collaboration with a web designer, I was in charge of designing and branding the website from the ground up. Since 2019, the website has been operational.  
+1. Clínica da Ponte  
+**Company:** Goalmoon  
+**Period:** Oct 2019 - Present  
+**Description:** I was in charge of implementing the design and layout using the AVADA theme, collaborating with a designer to ensure a user-friendly and professional online presence for the clinic. In addition, I worked to ensure the website complies with relevant healthcare regulations, and it has been running smoothly since its launch in 2019.  
+1. AQEV Store  
+**Company:** Goalmoon  
+**Period:** Oct 2019 - Present  
+**Description:** I was in charge of setting up the WordPress backend. My responsibilities include DNS, Email, Security, backups, plugins, and theme installation. After I finished setting up the backend, the customer took over developing the website's content and design.  
+This website has been up and running since 2019.  
+1. Cinectus  
+**Company:** Goalmoon  
+**Period:** Oct 2020 - Present  
+**Description:** I migrated the website from WordPress.org, where the customer initially hosted it, so I replicated it using AVADA on a conventional hosting platform. I completed this process alone, using the old website as a reference for design and content. The customer is satisfied with the results of the migration.  

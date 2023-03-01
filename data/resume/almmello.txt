@@ -1,0 +1,52 @@
+# SUMMARY
+I'm a Full Stack Software Engineer and an Experienced Product Manager with a track record of success in managing portfolios, closing deals, and launching successful apps.
+I am also skilled in project management and technical advising, continuously evolving my software development skills through education and hands-on experience.
+As a Product Manager, I led the development of the first 5G industrial private network in Latin America in the port sector, which was a complex project involving deploying new technology in a highly regulated environment, coordinating the efforts of multiple internal and external teams to ensure the project's success.
+I also have experience as a software developer developing various projects such as React Calculator, Casting Agency, Coffee Shop Full Stack, Trivia app, and Fyyur app, among others, which demonstrate my ability to work with new technologies and my skills in SQLAlchemy, RESTful principles of API development, Role-Based Authentication and role-based access control, Auth0, and unit testing. You can find more information about these projects in my profile's "Projects" section.
+# EXPERIENCE
+## Product Manager
+**Company:** TIM Brasil
+**Period:** 9 years
+**Description:** I currently manage the Private Network portfolio, with up to 50 million USD commercial proposals in various industries, including Mining, Ports, Utilities, Smart Lighting, and Connected Cars.
+I have also successfully launched the Blah app, which achieved over 9 million views and 3 million downloads; it was named App of the Week on the Apple Store and was twice the most downloaded app on Google Play. In addition, I have managed a team of testers assembling 1,000 scenarios of the device's testing operation, and based on user feedback, we fixed nearly 3,000 issues.
+## Founder
+**Company:** Goalmoon
+**Period:** 15 years
+**Description:** I have handled multiple hosting platforms that provide web designers with an easy-to-use solution. I have assisted them with WordPress management, theme selection, plugin management, and maintenance. Adopting the Lean Startup method, I have launched over 20 websites and used customer feedback to identify a profitable business model.
+I have experienced programming an iOS App in Objective-C and publishing it to the Apple App Store.
+## Project Manager
+**Company:** TIM Brasil
+**Period:** 4 years
+**Description:** I have a proven track record of leading successful projects, such as the Blah app development, which resulted in 4,000 hours of coordination with more than 35 different departments, from Legal to IT, and a multicultural team. In addition, I have conducted the design agency's activities, producing 1,400 layouts, including wireframes and prototypes.
+I developed an Excel VBA-based KPI analysis platform to receive and process 3,900 services' weekly data, achieving 95% cancellation efficiency.
+## Technical Advisor
+**Company:** TIM Brasil
+**Period:** 8 years
+**Description:** I supported a team of 5 Key Account Managers responsible for 300 clients and 3M USD in annual revenue. I successfully launched the M2M segment using hybrid GSM and satellite location modules for the first time in Brazil, resulting in 45,000 gross adds. In addition, I achieved an average mean target of 227% over 63 months, 47% above company results.
+## Chief Technology Officer
+**Company:** DirectLink Internet by Radio
+**Period:** 3 years
+**Description:** I successfully deployed the DirectLink system in 7 cities with an average population of 300,000 and built 150 points of presence on a radio network of 400 servers, supporting 2K subscribers.
+I created a design pattern to reuse my JAVA + JSP + MySQL code and build web applications faster. After this, I used Excel VBA to generate those classes, which reduced development time by 85%.
+# EDUCATION
+## DIO
+**Course:** Bootcamp, React Developer Training
+**Period:** Sep 2022 - Dec 2022
+**Description:** Create dynamic Web Apps with React to evolve your front end.
+Discover how to use Single Page Application (SPA) and its benefits.
+Explore the power of dealing with componentized pages, state management, and routing, as well as constructing rich and well-structured layouts with the main library used by the Facebook team.
+Use React to create powerful and user-friendly web applications.
+## Udacity
+**Course:** Full Stack Web Developer, Computer Software Engineering
+**Period:** May 2022 - Sep 2022
+**Description:** Learn to design and develop powerful modern web applications that form the foundation for the daily apps, websites, and systems that people and businesses use.
+## Veiga de Almeida University
+**Course:** Master of Business Administration (M.B.A.), Project Management
+**Period:** 2011 - 2012
+## UNIFIL University
+**Course:** Undergraduate, Data Processing Technology
+**Period:** 1999 - 2002
+# CERTIFICATION
+- Agile Product Owner Role: Foundations - LinkedIn
+- JavaScript - Sololearn
+- Codeable Certified Expert - Codeable

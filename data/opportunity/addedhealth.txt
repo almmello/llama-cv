@@ -1,0 +1,34 @@
+Junior developer (Python, Javascript)
+Job title	Junior developer (Python, Javascript)
+Hours	Full time
+Location	Remote
+Reports to	Lorenzo Wood, CTO
+Compensation	Our salary budget is £50,000 pa (junior) + benefits (see below)
+Deadline	We will review applications on 28 February 2023. See how to apply
+1. General information
+ABOUT US
+Added Health is an ambitious early-stage start-up with a mission to make the whole world healthier. Founded by medical experts and based on a unique synthesis of the latest scientific evidence on how to keep people healthy, our first offer is personalised health coaching — flexible, based on each individual’s needs, evidence-based, and competitively priced.
+The company is at an exciting stage of its development where we have secured the investment needed to commit to further development of the service. For more information on the doctors who have founded the company, please visit https://addedhealth.com/team.
+VALUES
+Our values are these:
+Care — We are heart-driven and go the extra mile.
+Connections — We believe in the power of connection that all of us have to one another.
+Catalysts — We use our passion and our expertise to spark motivation and drive change.
+Underpinned by
+Integrity — We always choose to do the right thing, even when it’s hard.
+ABOUT THE TEAM
+The company has a team of 12, including doctors, coaches and marketing. These new roles are in the product team, which currently consists of two people. We have built our initial offer as a web application, using Python (Flask) on PostgreSQL, with Redis, RabbitMQ and Celery for appropriate functions, deployed on AWS in containers.
+Now we have launched, the team has three responsibilities:
+Support the doctors and coaches with operational matters
+Deliver functionality from a backlog, prioritised on business need
+Run experiments to inform business strategy, particularly with respect to automation and AI
+We work remotely, present in an online space during the working day. We favour pair programming and TDD.
+2. Job summary and responsibilities
+ABOUT THE ROLES
+We are looking for one developer to join the team. We are looking for people who are comfortable working remotely, with rotating pair programming and TDD. You will need to be prepared to work across the stack to deliver capabilities, learn new skills and technologies, and be prepared to evaluate and recommend new technologies as our needs advance.
+
+Required technical skills are programming in Python and Javascript. Experience with any of the following technologies that we use is valuable: HTML, CSS, Terraform, Docker, PostgreSQL, Flask, Contentful, Stripe, Twilio, SendGrid, OpenAI. Our placeholder marketing web site was built by an agency in WordPress, so experience of that is also helpful.
+
+Education, training or experience in computer science, particularly HCI, are helpful. Experience of delivering responsive UI in modern browsers is helpful.
+
+Experience of working with — or holding — user experience roles is helpful.
